@@ -10,7 +10,7 @@ In this exercise, I will write a program in Python to predict the hero names on 
 
 # Getting started
 
-In this project, I crawl the training dataset from https://leagueoflegends.fandom.com/wiki/. As the dataset is quite big, I'm not able to upload it direct through github.
+In this project, I crawl the training dataset from https://leagueoflegends.fandom.com/wiki/. 
 
 
 
